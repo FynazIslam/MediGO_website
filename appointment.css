@@ -1,0 +1,52 @@
+/* Appointment Section */
+.appointment-section {
+    padding: 4rem 1rem;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .appointment-section h2 {
+    font-size: 2rem;
+    color: #0077cc;
+    margin-bottom: 0.5rem;
+  }
+  
+  .appointment-form {
+    max-width: 600px;
+    margin: 2rem auto 0;
+    text-align: left;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  
+  .form-group input:focus,
+  .form-group select:focus,
+  .form-group textarea:focus {
+    border-color: #0077cc;
+    outline: none;
+  }
+  
+  /* Optional: highlight active nav */
+  .nav .active {
+    color: #0077cc;
+    font-weight: bold;
+  }
+  
